@@ -1,5 +1,5 @@
 {
-    "name": "TheMY3/gChartPhp",
+    "name": "themy3/gchartphp",
     "description": "PHP Object wrapper for the Google Chart API.",
     "keywords": ["Google Charts", "wrapper", "php", "charts"],
     "homepage": "https://github.com/pacbard/gChartPhp",
